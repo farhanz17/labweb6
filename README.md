@@ -1,5 +1,3 @@
-# labweb6
-
 # Penjelasan singkat
 
 1. untuk membuka sidebar anda bisa klik tombol bertuliskan "open sidebar"
