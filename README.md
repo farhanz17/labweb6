@@ -2,7 +2,7 @@
 
 1. untuk membuka sidebar anda bisa klik tombol bertuliskan "open sidebar"
 
-![Screenshot (112)](https://user-images.githubusercontent.com/92738041/233067993-8a48597b-3898-4701-a0cb-cabce7f4a7b1.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/92637117/233217518-c7901b37-02a9-4a96-86c3-2f116eb3bc49.png)
 
 maka hasilnya akan muncul sidebar yang menampilkan menu about dan contact
 
